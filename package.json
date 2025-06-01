@@ -1,0 +1,31 @@
+{
+  "name": "shibcal-ai",
+  "version": "1.0.0",
+<<<<<<< HEAD
+=======
+  "private": true,
+>>>>>>> 4565b0dfac8d9589c15422c76f9af0ac2fed4d06
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "next": "14.1.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.24",
+    "@types/react": "19.1.6",
+    "typescript": "5.8.3"
+  }
+}
+=======
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
+>>>>>>> 4565b0dfac8d9589c15422c76f9af0ac2fed4d06
